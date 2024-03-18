@@ -470,6 +470,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h3{
   font-family: "Poppins", sans-serif;
+  text-align: center;
 }
 
 #hero .social-links a {
@@ -498,6 +499,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
+  text-align: center;
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
@@ -510,6 +512,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #eee;
   margin-bottom: 10px 0 0 0;
   font-size: 22px;
+  text-align: center;
 }
 
 #hero .btns {
